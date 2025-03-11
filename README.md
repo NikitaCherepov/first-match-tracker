@@ -5,7 +5,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 git clone https://github.com/NikitaCherepov/first-match-tracker
 cd first-match-tracker
 npm install
-npm run dev```
+npm run dev
+```
 
 ## Getting Started
 
