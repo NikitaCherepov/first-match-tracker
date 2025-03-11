@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 0.75rem;
+    font-weight: 600;
+
+    min-width: 92px;
+    padding: 6px 8px;
+
+    border-radius: 4px;
+
+    user-select: none;
+    pointer-events: none;
+
+    &_live {
+        background: rgba(67, 173, 40, 1);
+    }
+    &_finished {
+        background: rgba(235, 2, 55, 1);
+    }
+    &_preparing {
+        background: rgba(235, 100, 2, 1);
+    }
+}
