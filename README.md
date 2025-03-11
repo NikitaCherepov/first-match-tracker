@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Short Instruction:
+git clone https://github.com/NikitaCherepov/first-match-tracker
+cd first-match-tracker
+npm install
+npm run dev
+
 ## Getting Started
 
 First, run the development server:
